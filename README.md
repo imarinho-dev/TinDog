@@ -20,6 +20,4 @@ My second-course project: [link to Course!](https://www.udemy.com/course/the-com
 
 ![Image of Tindog](https://github.com/imarinho-dev/TinDog/blob/master/screenshot/Tindog%20screenshot.png?raw=true)
 
-#### [Source](https://github.com/imarinho-dev/TinDog)
-
 #### [Preview](https://imarinho-dev.github.io/TinDog/)
