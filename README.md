@@ -18,7 +18,7 @@ Code Refactoring
 
 ### Screenshot:
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Tindog](https://github.com/imarinho-dev/TinDog/blob/master/screenshot/Tindog%20screenshot.png?raw=true)
 
 #### Source: https://github.com/imarinho-dev/TinDog
 
