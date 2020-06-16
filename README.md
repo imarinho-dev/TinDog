@@ -7,19 +7,19 @@ My second-course project: [link to Course!](https://www.udemy.com/course/the-com
 
 ### My role:
 
-Desenvolver um site responsivo apenas utilizando bootstrap e fontawesome.
+- Develop a responsive website using only bootstrap and font awesome.
 
 ### Project difficulties:
 
-Compreender melhor como funciona o Grid Layout System
+- Better understand how the Grid Layout System works.
 
-Code Refactoring
+- Code Refactoring.
 
 
 ### Screenshot:
 
 ![Image of Tindog](https://github.com/imarinho-dev/TinDog/blob/master/screenshot/Tindog%20screenshot.png?raw=true)
 
-#### Source: https://github.com/imarinho-dev/TinDog
+#### [Source](https://github.com/imarinho-dev/TinDog)
 
-#### Preview: https://imarinho-dev.github.io/TinDog/
+#### [Preview](https://imarinho-dev.github.io/TinDog/)
